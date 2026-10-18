@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"><channel><title>Otera isolated PDIAG01</title><link>https://example.invalid/otera-test/pdiag01</link><description>One finite preacceptance diagnostic</description></channel></rss>
+<rss version="2.0"><channel><title>Otera isolated PDIAG01</title><link>https://example.invalid/otera-test/pdiag01</link><description>One finite preacceptance diagnostic</description><item><title>Temple test P01</title><link>https://example.invalid/otera-test/pdiag01</link><guid isPermaLink="false">urn:otera:rss:20261019:PDIAG01:001</guid><pubDate>Sun, 18 Oct 2026 15:58:16 GMT</pubDate></item></channel></rss>
